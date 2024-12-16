@@ -1,7 +1,7 @@
 {
   "name": "P2PConnect",
   "version": "0.1.0",
-  "homepage": "https://harshshinde.me/P2PConnect",
+  "homepage": "https://p2pconnect.vercel.app/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
