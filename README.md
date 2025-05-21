@@ -22,14 +22,6 @@ P2PConnect is a project designed to facilitate peer-to-peer (P2P) connections fo
 - **Cross-Platform:**  
   Designed to work on multiple platforms (update with specifics: e.g., Python, JavaScript, or specify frameworks used).
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x (if Python)
-- Node.js (if JavaScript/Node)
-- Any other dependencies or frameworks (list them here)
-
 ### Installation
 
 Clone the repository:
